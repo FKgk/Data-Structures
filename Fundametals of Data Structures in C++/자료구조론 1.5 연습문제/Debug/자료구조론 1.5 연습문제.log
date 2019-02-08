@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\user\source\repos\자료구조론 1.5 연습문제\소스.cpp(156): warning C4172: 지역 변수 또는 임시: ans의 주소를 반환하고 있습니다.
+c:\users\user\source\repos\자료구조론 1.5 연습문제\소스.cpp(159): warning C4172: 지역 변수 또는 임시: ans의 주소를 반환하고 있습니다.
+  자료구조론 1.5 연습문제.vcxproj -> C:\Users\User\source\repos\자료구조론 1.5 연습문제\Debug\자료구조론 1.5 연습문제.exe

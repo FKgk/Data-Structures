@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\user\source\repos\c++로 쉽게 풀어쓴 자료구조 프로그램 5.9\소스.cpp(9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+  C++로 쉽게 풀어쓴 자료구조 프로그램 5.9.vcxproj -> C:\Users\User\source\repos\C++로 쉽게 풀어쓴 자료구조 프로그램 5.9\Debug\C++로 쉽게 풀어쓴 자료구조 프로그램 5.9.exe
